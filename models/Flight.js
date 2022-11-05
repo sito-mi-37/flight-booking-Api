@@ -1,1 +1,1 @@
-exports.Flights = [];
+exports.exampleModel = [];
